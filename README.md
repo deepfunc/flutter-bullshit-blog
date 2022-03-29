@@ -1,2 +1,7 @@
-# flutter-bullshit-blog
-小声比比 Flutter
+# 小声比比 Flutter
+
+谈点自己的理解和总结，我说的可能都是错的。
+
+## 布局
+
+- [彻底搞懂 Align 是怎么对齐的](布局/彻底搞懂Align是怎么对齐的/彻底搞懂Align是怎么对齐的.md)
